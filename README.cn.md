@@ -16,11 +16,6 @@
 - [背景](#背景)
 - [安装](#安装)
 - [使用](#使用)
-	- [生成器](#生成器)
-- [徽章](#徽章)
-- [Readme 示例](#Readme-示例)
-- [相关仓库](#相关仓库)
-- [维护者](#维护者)
 - [如何贡献](#如何贡献)
 - [使用许可](#使用许可)
 
@@ -63,4 +58,4 @@ $ git clone https://github.com/javaisgood/common-test.git
 
 ## 使用许可
 
-[MIT](LICENSE) © jyw
+[MIT](LICENSE) © javaisgood
