@@ -52,7 +52,7 @@ $ git clone https://github.com/javaisgood/common-test.git
 
 ## 维护者
 
-[@RichardLitt](https://github.com/javaisgood).
+[@javaisgood](https://github.com/javaisgood).
 
 ## 如何贡献
 
@@ -61,12 +61,6 @@ $ git clone https://github.com/javaisgood/common-test.git
 
 标准 Readme 遵循 [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) 行为规范.
 
-### 贡献者
-
-感谢以下参与项目的人：
-<a href="graphs/contributors"><img src="https://opencollective.com/common-test/contributors.svg?width=890&button=false" /></a>
-
-
 ## 使用许可
 
-[MIT](LICENSE) © Richard Littauer
+[MIT](LICENSE) © jyw
